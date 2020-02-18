@@ -1,0 +1,32 @@
+html{ 
+  background: url(https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop) no-repeat center center fixed;
+  background-size: cover;
+  height: 0;
+  overflow: hidden;
+ 
+}
+
+h1 {
+	color: white;
+	text-transform: uppercase;
+	margin-top: 300;
+	
+}
+
+.btn {
+	font-weight: 700;
+	border-radius: 4px;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	background-color: #F05F44;
+	border-color: F05F44;
+}
+.btn-xl {
+	padding: 1rem 2rem;
+}
+
+section {
+	margin-top: 30px;
+}
